@@ -1,0 +1,105 @@
+p {
+  color: rgb(68, 66, 66);
+}
+
+body {
+  /*border: 1px solid black;
+  border-radius: 25px;*/
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  width: 50%;
+  margin-top: 5%;
+  padding: 2%;
+  font-family: "Poppins", Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.75em;
+  color: #555;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", Helvetica, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #222;
+}
+
+h2 {
+  font-size: 25px;
+  color: teal;
+}
+
+.title h1 {
+  font-size: 40px;
+  line-height: 56px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.title h3 {
+  font-size: 16px;
+  color: #aaa;
+  font-weight: 300;
+  margin-bottom: -5px;
+}
+
+.socialmedia {
+  align-self: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.photo {
+  border: 10px solid #ffffff;
+  border-radius: 50%;
+  margin-top: -20px;
+}
+.column70 {
+  float: left;
+  width: 70%;
+}
+.column30 {
+  float: left;
+  width: 30%;
+}
+.aboutme,
+.mycareer,
+.skills {
+  text-align: justify;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+.row {
+  width: 100%;
+  display: flex;
+}
+.column33 {
+  float: left;
+  width: 33.3%;
+  position: relative;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.column33 p{
+
+    text-align: justify;
+}
+span{
+    color: teal;
+}
+.column33 span{
+    font-size: 13px;
+}
+.return{
+margin-bottom: 10%;
+}
