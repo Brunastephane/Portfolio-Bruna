@@ -35,20 +35,22 @@ h6 {
 h2 {
   font-size: 25px;
   color: teal;
+  margin-top: 10;
+  margin-bottom: 30px;
 }
 
 .title h1 {
   font-size: 40px;
   line-height: 56px;
   margin-top: 0;
-  margin-bottom: 20px;
+  margin-bottom:-20px;
 }
 
 .title h3 {
   font-size: 16px;
   color: #aaa;
   font-weight: 300;
-  margin-bottom: -5px;
+  margin-bottom: 30px;
 }
 
 .socialmedia {
